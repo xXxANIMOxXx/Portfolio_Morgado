@@ -1,38 +1,44 @@
-### Description
+# vCard - Personal portfolio
 
-A simple portfolio template for developer/designers built with React. 
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+## Demo
 
-### Features
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
+## Prerequisites
 
-### Setup
+Before you begin, ensure you have met the following requirements:
 
-Get the code
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
+## Installing vCard
 
-<pre>yarn install</pre>
+To install **vCard**, follow these steps:
 
+Linux and macOS:
 
-Start the server
+```bash
+sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
 
-<pre>yarn start</pre>
+Windows:
 
-### More
+```bash
+git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
 
-Modify pages content in  `src/content_option.js`.
+## Contact
 
-### Thanks
+If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
 
-If you like this portfolio template don't forget give it a ⭐ 
+## License
+
+MIT
